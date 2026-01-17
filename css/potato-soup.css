@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+    width: auto;
+    text-align: center;
+}
+
+a {
+    display: block;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    width: 750px;
+    margin: 20px auto;
+}
+
+p {
+    font-size: 40px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    margin: 20px auto;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ol {
+    width: 650px;
+}
